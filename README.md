@@ -1,8 +1,6 @@
 
 # E-Commerce Spark-Declarative-Pipeline Data Engineering Project
 
-# E-Commerce Data Engineering Project
-
 ![Architecture Diagram](images/architecture%20ecommerce-spark-declarative-pipeline.png)
 
 ## Project Overview
@@ -437,6 +435,8 @@ The final Power BI report consists of **five analytical pages**, each focused on
 
 Provides a high-level view of overall business performance.
 
+![Executive Overview Dashboard](screenshots/Dashboard1%20Executive%20Overview%20Dashboard.png)
+
 Key visuals include:
 
 * Total Sales
@@ -453,6 +453,8 @@ Key visuals include:
 ## 2. Sales & Profitability Analysis
 
 Focuses on financial performance and sales trends.
+
+![Sales and Profitability Dashboard](screenshots/Dashboard2%20Sales%20and%20Profitability.png)
 
 Key visuals include:
 
@@ -471,6 +473,8 @@ Key visuals include:
 ## 3. Customer & Regional Analysis
 
 Examines customer behavior and geographical performance.
+
+![Customer and Regional Analysis Dashboard](screenshots/Dashboard3%20Customer%20and%20Regional%20Analysis.png)
 
 Key visuals include:
 
@@ -491,6 +495,8 @@ Key visuals include:
 
 Analyzes marketing performance and operational metrics.
 
+![Marketing, Delivery and Returns Analysis](screenshots/Dashboard4%20Marketing%20Delivery%20an%20Returns%20Analysis.png)
+
 Key visuals include:
 
 * Total Orders
@@ -507,6 +513,8 @@ Key visuals include:
 ---
 
 ## 5. Product Performance
+
+![Product Performance Dashboard](screenshots/Dashboard5%20Product%20Performance.png)
 
 Provides a detailed view of product-level performance.
 
@@ -654,42 +662,6 @@ The dashboard includes:
 * Order volume
 
 Combining operational metrics with sales information provides a basis for investigating relationships between fulfillment performance and customer/business outcomes.
-
----
-
-# Project Structure
-
-The project can be organized in GitHub using the following structure:
-
-```text
-ecommerce-data-engineering-project/
-│
-├── images/
-│   └── architecture.png
-│
-├── notebooks/
-│   └── ...
-│
-├── pipelines/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── sql/
-│   └── gold_tables.sql
-│
-├── powerbi/
-│   └── ecommerce_dashboard.pbix
-│
-├── data/
-│   └── README.md
-│
-└── README.md
-```
-
-> The exact folder structure can be adjusted to match the files actually stored in the repository.
-
----
 
 # Skills Demonstrated
 
