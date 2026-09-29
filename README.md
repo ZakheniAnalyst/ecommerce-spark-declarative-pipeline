@@ -1,7 +1,9 @@
 
 # E-Commerce Spark-Declarative-Pipeline Data Engineering Project
 
-![Architecture](images/architecture ecommerce-spark-declarative-pipeline.png)
+# E-Commerce Data Engineering Project
+
+![Architecture Diagram](images/architecture%20ecommerce-spark-declarative-pipeline.png)
 
 ## Project Overview
 
